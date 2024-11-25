@@ -1,2 +1,1 @@
-# TEST-1
-Testing platform one.
+TEST-1
